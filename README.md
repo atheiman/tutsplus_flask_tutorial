@@ -12,3 +12,5 @@ How to run:
     $ git clone git@github.com:atheiman/tutsplus_flask_tutorial.git
     $ cd tutsplus_flask_tutorial
     $ python routes.py
+
+[localhost:5000](http://localhost:5000)
