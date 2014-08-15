@@ -9,6 +9,6 @@ How to run:
     $ cd my_sandbox/
     $ . bin/activate
     $ pip install Flask
-    $ cd nettutsplus_tutorial
-    $ git clone this_darned_git_address.git
+    $ cd tutsplus_flask_tutorial
+    $ git clone git@github.com:atheiman/tutsplus_flask_tutorial.git
     $ python routes.py
